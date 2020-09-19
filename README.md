@@ -61,6 +61,8 @@ Things you may want to cover:
 | title          | string     | null: false                    |
 | text           | text       | null: false                    |
 | corona_measure | text       | null: false                    |
+| traffic        | text       | null: false                    |
+| fare           | string     | null: false                    |
 
 ### Association
 
